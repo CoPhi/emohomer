@@ -1,0 +1,3216 @@
+<annotations xmlns="http://himeros.eu/euporia">
+  <div n="1">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 1 </numRef>
+                            <wordRef>μῆνιν </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pain </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>revenge </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 1 </numRef>
+                            <wordRef>μῆνιν </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pain </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>revenge </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 2 </numRef>
+                            <wordRef>οὐλομένην </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>disdain </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 2 </numRef>
+                            <wordRef>ἄλγε’ </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>thepoet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 3 </numRef>
+                            <wordRef>ἰφθίμους </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ψυχὰς </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>Ἄϊδι </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>προΐαψεν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 4 </numRef>
+                            <wordRef>ἑλώρια </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>τεῦχε </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>κύνεσσιν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>pain </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pain </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 5 </numRef>
+                            <wordRef>Διὸς </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐτελείετο </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>βουλή </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 7 </numRef>
+                            <wordRef>δῖος </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="2">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 11 </numRef>
+                            <wordRef>ἠτίμασεν </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 15 </numRef>
+                            <wordRef>χρυσέῳ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ἀνὰ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>σκήπτρῳ </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 15 </numRef>
+                            <wordRef>λίσσετο </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>mercy </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>mercy </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 17 </numRef>
+                            <wordRef>ἐϋκνήμιδες </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 20 </numRef>
+                            <wordRef>παῖδα </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐμοὶ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>λύσαιτε </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>φίλην </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#chracter </role>
+                        <value>Chryses </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>distress </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 22 </numRef>
+                            <wordRef>ἐπευφήμησαν </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="3">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 22 </numRef>
+                            <wordRef>ἐπευφήμησαν </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 25 </numRef>
+                            <wordRef>κακῶς </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>fury </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>grudge </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 26 </numRef>
+                            <wordRef>μή </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>σε </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>γέρον </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κοίλῃσιν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐγὼ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>παρὰ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>νηυσὶ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>κιχείω </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>fury </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 28 </numRef>
+                            <wordRef>μή </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>νύ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>τοι </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>οὐ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>χραίσμῃ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>σκῆπτρον </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>καὶ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>στέμμα </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>θεοῖο </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>impiety </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="4">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 33 </numRef>
+                            <wordRef>ἔδεισεν </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ὃ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>γέρων </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>καὶ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐπείθετο </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>μύθῳ </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Chryses </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>humiliation </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 32 </numRef>
+                            <wordRef>ἴθι </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="5">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 43 </numRef>
+                            <wordRef>τοῦ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἔκλυε </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 44 </numRef>
+                            <wordRef>βῆ </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="6">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 51 </numRef>
+                            <wordRef>πυραὶ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>νεκύων </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>καίοντο </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>distress </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>distress </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 54 </numRef>
+                            <wordRef>ἀγορὴν </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δὲ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>καλέσσατο </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>λαὸν </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>Ἀχιλλεύς </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>respect </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>relief </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 55 </numRef>
+                            <wordRef>θῆκε </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>θεὰ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>λευκώλενος </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>Ἥρη </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>relief </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 56 </numRef>
+                            <wordRef>κήδετο </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>γὰρ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>Δαναῶν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>respect </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+
+
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="7">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 65 </numRef>
+                            <wordRef>λλ’ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ἄγε </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δή </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>τινα </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>μάντιν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐρείομεν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἢ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἱερῆα </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>question </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 67 </numRef>
+                            <wordRef>βούλεται </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ἀντιάσας </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἡμῖν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἀπὸ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>λοιγὸν </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἀμῦναι </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>shows </value>
+                    </predicate>
+                    <object>
+                        <value>respect </value>
+                    </object>
+                    <target>to <value>Gods </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 69 </numRef>
+                            <wordRef>ὄχ’ </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>ἄριστος </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Kalchas </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Kalchas </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="8">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 73 </numRef>
+                            <wordRef>ἐὺ </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>φρονέων </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>confidence </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 78 </numRef>
+                            <wordRef>ἦ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>γὰρ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ὀΐομαι </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἄνδρα </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>χολωσέμεν , </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ὃς </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>μέγα </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>πάντων </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="9">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 83 </numRef>
+                            <wordRef>σὺ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δὲ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>φράσαι </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>εἴ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>με </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>σαώσεις . </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>
+                    <target>for <value>Kalchas </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 89 </numRef>
+                            <wordRef>οὔ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>... <wordRef>χεῖρας </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἐποίσει </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>confidence </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>bravery </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="10">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 94 </numRef>
+                            <wordRef>ἠτίμησ’ </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>angry </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>rejection </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="11">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 103 </numRef>
+                            <wordRef>ἀχνύμενος </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annoator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <value>#narrator </value>
+                    </subject>
+                    <predicate>
+                        <value>the_poet </value>
+                    </predicate>
+                    <object>
+                        <value>feels </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 107 </numRef>
+                            <wordRef>κάκ’ </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>kalchas </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="12">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 118 </numRef>
+                            <wordRef>ἑτοιμάσατ’ </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>ὄφρα </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>fury </value>
+                    </object>
+                    <target>for <value>agamemnon </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 119 </numRef>
+                            <wordRef>Ἀργείων </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ἀγέραστος </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἔω </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>jealousy </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>complaint </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="13">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 121 </numRef>
+                            <wordRef>ποδάρκης </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>δῖος </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annoator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <value>#narrator </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pride </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 122 </numRef>
+                            <wordRef>φιλοκτεανώτατε </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>disdain </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 130 </numRef>
+                            <wordRef>κρείων </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>respect </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="14">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 133 </numRef>
+                            <wordRef>ὄφρ’ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>αὐτὸς </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἔχῃς </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>γέρας </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>jealousy </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 136 </numRef>
+                            <wordRef>εἰ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δέ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κε </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>μὴ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δώωσιν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐγὼ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δέ₁ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κεν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>αὐτὸς </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἕλωμαι </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 139 </numRef>
+                            <wordRef>κεχολώσεται </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Agamemnon </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>acknowledgement </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>acknowledgement </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="15">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 143 </numRef>
+                            <wordRef>καλλιπάρῃον </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Chryseis </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 146 </numRef>
+                            <wordRef>ἐκπαγλότατ’ </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#ecipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pride </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pride </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current-audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>pride </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 148 </numRef>
+                            <wordRef>ὑπόδρα </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 148 </numRef>
+                            <wordRef>ὠκὺς </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+
+
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="16">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 152 </numRef>
+                            <wordRef>οὐ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>Τρώων </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἕνεκ’ </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>acknowledgement </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="17">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 166 </numRef>
+                            <wordRef>χεῖρες </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>ἐμαὶ </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>acknowledgement </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>acknoledgement </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 169 </numRef>
+                            <wordRef>εἶμι </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>Φθίην </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="18">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 180 </numRef>
+                            <wordRef>οὐκ </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>
+                            <wordRef>ἀλεγίζω </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>angeer </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>distress </value>
+                    </object>
+                    <target>for <value>Greeks </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="19">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 188 </numRef>
+                            <wordRef>ἄχος </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>distress </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="20">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 191 </numRef>
+                            <wordRef>ἐναρίζοι </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anxiety </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 194 </numRef>
+                            <wordRef>ἦλθε </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’₁Ἀθήνη </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>οὐρανόθεν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>surprise </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="21">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 209 </numRef>
+                            <wordRef>ἄμφω </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ὁμῶς </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>θυμῷ </wordRef>
+                        </midWordRef>
+                        <midWordRef>... <numRef>1 . 210 </numRef>
+                            <wordRef>μη </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δὲ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ξίφος </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἕλκεο </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>χειρί· </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subjects>
+                        <subject>
+                            <role>#recipient </role>
+                            <value>the_ancient_audience </value>
+                        </subject>, <subject>
+                            <value>the_curent_audience </value>
+                        </subject>, <subject>
+                            <role>#annoator </role>
+                            <value>i </value>
+                        </subject>
+                    </subjects>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>confidence </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="22">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 212 </numRef>
+                            <wordRef>ὧδε </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>γὰρ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐξερέω </wordRef>
+                        </midWordRef>
+                        <midWordRef>... <numRef>1 . 213 </numRef>
+                            <wordRef>παρέσσεται </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἀγλαὰ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>δῶρα </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subjects>
+                        <subject>
+                            <role>#recipient </role>
+                            <value>the_ancient_audience </value>
+                        </subject>, <subject>
+                            <value>the_curent_audience </value>
+                        </subject>, <subject>
+                            <role>#annotator </role>
+                            <value>i </value>
+                        </subject>
+                    </subjects>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>certainty </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 216 </numRef>
+                            <wordRef>εἰρύσσασθαι </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>self_denial </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>hope </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 220 </numRef>
+                            <wordRef>ἂψ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐς </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κουλεὸν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ὦσε </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>μέγα </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ξίφος </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subjects>
+                        <subject>
+                            <role>#recipient </role>
+                            <value>the_ancient_audience </value>
+                        </subject>, <subject>
+                            <value>the_curent_audience </value>
+                        </subject>, <subject>
+                            <role>#annotator </role>
+                            <value>i </value>
+                        </subject>
+                    </subjects>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>relief </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="23">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 225 </numRef>
+                            <wordRef>οἰνοβαρές , </wordRef>
+                        </firstWordRef>
+                        <lastWordRef>... <numRef>1 . 228 </numRef>
+                            <wordRef>θυμῷ </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Achilles </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subjects>
+                        <subject>
+                            <role>#recipient </role>
+                            <value>the_current_audience </value>
+                        </subject>, <subject>
+                            <value>the_ancient_audience </value>
+                        </subject>, <subject>
+                            <role>#annotator </role>
+                            <value>i </value>
+                        </subject>
+                    </subjects>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subjects>
+                        <subject>
+                            <role>#recipient </role>
+                            <value>the_current_audience </value>
+                        </subject>, <subject>
+                            <value>the_ancient_audience </value>
+                        </subject>, <subject>
+                            <role>#annotator </role>
+                            <value>i </value>
+                        </subject>
+                    </subjects>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>awareness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="24">* </div>
+  <div n="25">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 241 </numRef>
+                            <wordRef>εὖτ’ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>ἂν </wordRef>
+                        </midWordRef>
+                        <lastWordRef>... <numRef>1 . 243 </numRef>
+                            <wordRef>πίπτωσι </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="26">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 254 </numRef>
+                            <wordRef>ὦ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>πόποι </wordRef>
+                        </midWordRef>
+                        <lastWordRef>... <wordRef>ἱκάνει </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Nestor </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 257 </numRef>
+                            <wordRef>εἰ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>σφῶϊν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>τάδε </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>πάντα </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>πυθοίατο </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>μαρναμένοιϊν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anxiety </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anxiety </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="27">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 263 </numRef>
+                            <wordRef>οἷον </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>Πειρίθοόν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>τε </wordRef>
+                        </midWordRef>
+                        <lastWordRef>... <numRef>1 . 265 </numRef>
+                            <wordRef>ἀθανάτοισιν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#character </role>
+                        <value>Nestor </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>pride </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>admiration </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="28">* </div>
+  <div n="29">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 288 </numRef>
+                            <wordRef>πάντων </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>μὲν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κρατέειν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐθέλει , </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>πάντεσσι </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>ἀνάσσειν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anger </value>
+                    </object>
+                    <target>for <value>Agamemnon </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="30">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 293 </numRef>
+                            <wordRef>ἦ </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>γάρ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κεν </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δειλός </wordRef>
+                        </midWordRef>
+                        <midWordRef>... <numRef>1 . 294 </numRef>
+                            <wordRef>ὅττί </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>κεν </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>εἴπῃς </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>empathy </value>
+                    </object>
+                    <target>for <value>Achilles </value>
+                    </target>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="31">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 304 </numRef>
+                            <wordRef>ὣς </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>τώ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>γ’ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἀντιβίοισι </wordRef>
+                        </midWordRef>
+                        <midWordRef>... <numRef>1 . 305 </numRef>
+                            <wordRef>παρὰ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>νηυσὶν </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>Ἀχαιῶν </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>
+                    <target>for <value>Greeks </value>
+                    </target>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#narrator </role>
+                        <value>the_poet </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>sadness </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#annotator </role>
+                        <value>i </value>
+                    </subject>
+                    <predicate>
+                        <value>feel </value>
+                    </predicate>
+                    <object>
+                        <value>anxiety </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_ancient_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anxiety </value>
+                    </object>. </sentence>
+                <sentence>
+                    <subject>
+                        <role>#recipient </role>
+                        <value>the_current_audience </value>
+                    </subject>
+                    <predicate>
+                        <value>feels </value>
+                    </predicate>
+                    <object>
+                        <value>anxiety </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+
+
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="32">* </div>
+  <div n="33">* </div>
+  <div n="34">* </div>
+  <div n="35">* </div>
+  <div n="36">* </div>
+  <div n="37">* </div>
+  <div n="38">* </div>
+  <div n="39">* </div>
+  <div n="40">* </div>
+  <div n="41">* </div>
+  <div n="42">* </div>
+  <div n="43">* </div>
+  <div n="44">* </div>
+  <div n="45">* </div>
+  <div n="46">* </div>
+  <div n="47">* </div>
+  <div n="48">* </div>
+  <div n="49">* </div>
+  <div n="50">* </div>
+  <div n="51">* </div>
+  <div n="52">* </div>
+  <div n="53">* </div>
+  <div n="54">* </div>
+  <div n="55">* </div>
+  <div n="56">* </div>
+  <div n="57">* </div>
+  <div n="58">* </div>
+  <div n="59">* </div>
+  <div n="60">* </div>
+  <div n="61">* </div>
+  <div n="62">* </div>
+  <div n="63">* </div>
+  <div n="64">* </div>
+  <div n="65">* </div>
+  <div n="66">* </div>
+  <div n="67">* </div>
+  <div n="68">* </div>
+  <div n="69">* </div>
+  <div n="70">* </div>
+  <div n="71">* </div>
+  <div n="72">* </div>
+  <div n="73">* </div>
+  <div n="74">* </div>
+  <div n="75">* </div>
+  <div n="76">* </div>
+  <div n="77">* </div>
+  <div n="78">* </div>
+  <div n="79">* </div>
+  <div n="80">* </div>
+  <div n="81">* </div>
+  <div n="82">* </div>
+  <div n="83">* </div>
+  <div n="84">* </div>
+  <div n="85">* </div>
+  <div n="86">* </div>
+  <div n="87">* </div>
+  <div n="88">* </div>
+  <div n="89">* </div>
+  <div n="90">* </div>
+  <div n="91">* </div>
+  <div n="92">* </div>
+  <div n="93">* </div>
+  <div n="94">* </div>
+  <div n="95">* </div>
+  <div n="96">* </div>
+  <div n="97">* </div>
+  <div n="98">* </div>
+  <div n="99">* </div>
+  <div n="100">* </div>
+  <div n="101">* </div>
+  <div n="102">* </div>
+  <div n="103">* </div>
+  <div n="104">* </div>
+  <div n="105">* </div>
+  <div n="106">* </div>
+  <div n="107">* </div>
+  <div n="108">* </div>
+  <div n="109">* </div>
+  <div n="110">* </div>
+  <div n="111">* </div>
+  <div n="112">* </div>
+  <div n="113">* </div>
+  <div n="114">* </div>
+  <div n="115">* </div>
+  <div n="116">* </div>
+  <div n="117">* </div>
+  <div n="118">* </div>
+  <div n="119">* </div>
+  <div n="120">* </div>
+  <div n="121">* </div>
+  <div n="122">* </div>
+  <div n="123">* </div>
+  <div n="124">* </div>
+  <div n="125">* </div>
+  <div n="126">* </div>
+  <div n="127">* </div>
+  <div n="128">* </div>
+  <div n="129">* </div>
+  <div n="130">* </div>
+  <div n="131">* </div>
+  <div n="132">* </div>
+  <div n="133">* </div>
+  <div n="134">* </div>
+  <div n="135">* </div>
+  <div n="136">* </div>
+  <div n="137">* </div>
+  <div n="138">* </div>
+  <div n="139">* </div>
+  <div n="140">* </div>
+  <div n="141">* </div>
+  <div n="142">* </div>
+  <div n="143">* </div>
+  <div n="144">* </div>
+  <div n="145">* </div>
+  <div n="146">* </div>
+  <div n="147">* </div>
+  <div n="148">* </div>
+  <div n="149">* </div>
+</annotations>

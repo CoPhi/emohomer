@@ -1,0 +1,238 @@
+<annotations xmlns="http://himeros.eu/euporia">
+  <div n="1">
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <singleWordRef>
+                            <numRef>1 . 1 </numRef>
+                            <wordRef>μῆνιν </wordRef>
+                        </singleWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <value>this </value>
+                    </subject>
+                    <predicate>
+                        <value>expresses </value>
+                    </predicate>
+                    <objects>
+                        <object>
+                            <polarity>#very_neg </polarity>
+                            <value>scorn </value>
+                        </object>, <object>
+                            <polarity>#very_neg </polarity>
+                            <value>anger </value>
+                        </object>
+                    </objects>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <note>
+            <headLine>* </headLine>
+            <ref>
+                <wordRefRanges>
+                    <wordRefRange>
+                        <firstWordRef>
+                            <numRef>1 . 20 </numRef>
+                            <wordRef>παῖδα </wordRef>
+                        </firstWordRef>
+                        <midWordRef>
+                            <wordRef>δ’ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἐμοὶ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>λύσαιτε </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>φίλην , </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>τὰ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>δ’₁ </wordRef>
+                        </midWordRef>
+                        <midWordRef>
+                            <wordRef>ἄποινα </wordRef>
+                        </midWordRef>
+                        <lastWordRef>
+                            <wordRef>δέχεσθαι </wordRef>
+                        </lastWordRef>
+                    </wordRefRange>
+                </wordRefRanges>: </ref>
+            <item>
+                <sentence>
+                    <subject>
+                        <value>this </value>
+                    </subject>
+                    <predicate>
+                        <value>expresses </value>
+                    </predicate>
+                    <object>
+                        <polarity>#neu </polarity>
+                        <value>request </value>
+                    </object>. </sentence>
+            </item>
+            <eol>
+ </eol>
+        </note>
+        <EOF/> </div>
+  <div n="2">* </div>
+  <div n="3">* </div>
+  <div n="4">* </div>
+  <div n="5">* </div>
+  <div n="6">* </div>
+  <div n="7">* </div>
+  <div n="8">* </div>
+  <div n="9">* </div>
+  <div n="10">* </div>
+  <div n="11">* </div>
+  <div n="12">* </div>
+  <div n="13">* </div>
+  <div n="14">* </div>
+  <div n="15">* </div>
+  <div n="16">* </div>
+  <div n="17">* </div>
+  <div n="18">* </div>
+  <div n="19">* </div>
+  <div n="20">* </div>
+  <div n="21">* </div>
+  <div n="22">* </div>
+  <div n="23">* </div>
+  <div n="24">* </div>
+  <div n="25">* </div>
+  <div n="26">* </div>
+  <div n="27">* </div>
+  <div n="28">* </div>
+  <div n="29">* </div>
+  <div n="30">* </div>
+  <div n="31">* </div>
+  <div n="32">* </div>
+  <div n="33">* </div>
+  <div n="34">* </div>
+  <div n="35">* </div>
+  <div n="36">* </div>
+  <div n="37">* </div>
+  <div n="38">* </div>
+  <div n="39">* </div>
+  <div n="40">* </div>
+  <div n="41">* </div>
+  <div n="42">* </div>
+  <div n="43">* </div>
+  <div n="44">* </div>
+  <div n="45">* </div>
+  <div n="46">* </div>
+  <div n="47">* </div>
+  <div n="48">* </div>
+  <div n="49">* </div>
+  <div n="50">* </div>
+  <div n="51">* </div>
+  <div n="52">* </div>
+  <div n="53">* </div>
+  <div n="54">* </div>
+  <div n="55">* </div>
+  <div n="56">* </div>
+  <div n="57">* </div>
+  <div n="58">* </div>
+  <div n="59">* </div>
+  <div n="60">* </div>
+  <div n="61">* </div>
+  <div n="62">* </div>
+  <div n="63">* </div>
+  <div n="64">* </div>
+  <div n="65">* </div>
+  <div n="66">* </div>
+  <div n="67">* </div>
+  <div n="68">* </div>
+  <div n="69">* </div>
+  <div n="70">* </div>
+  <div n="71">* </div>
+  <div n="72">* </div>
+  <div n="73">* </div>
+  <div n="74">* </div>
+  <div n="75">* </div>
+  <div n="76">* </div>
+  <div n="77">* </div>
+  <div n="78">* </div>
+  <div n="79">* </div>
+  <div n="80">* </div>
+  <div n="81">* </div>
+  <div n="82">* </div>
+  <div n="83">* </div>
+  <div n="84">* </div>
+  <div n="85">* </div>
+  <div n="86">* </div>
+  <div n="87">* </div>
+  <div n="88">* </div>
+  <div n="89">* </div>
+  <div n="90">* </div>
+  <div n="91">* </div>
+  <div n="92">* </div>
+  <div n="93">* </div>
+  <div n="94">* </div>
+  <div n="95">* </div>
+  <div n="96">* </div>
+  <div n="97">* </div>
+  <div n="98">* </div>
+  <div n="99">* </div>
+  <div n="100">* </div>
+  <div n="101">* </div>
+  <div n="102">* </div>
+  <div n="103">* </div>
+  <div n="104">* </div>
+  <div n="105">* </div>
+  <div n="106">* </div>
+  <div n="107">* </div>
+  <div n="108">* </div>
+  <div n="109">* </div>
+  <div n="110">* </div>
+  <div n="111">* </div>
+  <div n="112">* </div>
+  <div n="113">* </div>
+  <div n="114">* </div>
+  <div n="115">* </div>
+  <div n="116">* </div>
+  <div n="117">* </div>
+  <div n="118">* </div>
+  <div n="119">* </div>
+  <div n="120">* </div>
+  <div n="121">* </div>
+  <div n="122">* </div>
+  <div n="123">* </div>
+  <div n="124">* </div>
+  <div n="125">* </div>
+  <div n="126">* </div>
+  <div n="127">* </div>
+  <div n="128">* </div>
+  <div n="129">* </div>
+  <div n="130">* </div>
+  <div n="131">* </div>
+  <div n="132">* </div>
+  <div n="133">* </div>
+  <div n="134">* </div>
+  <div n="135">* </div>
+  <div n="136">* </div>
+  <div n="137">* </div>
+  <div n="138">* </div>
+  <div n="139">* </div>
+  <div n="140">* </div>
+  <div n="141">* </div>
+  <div n="142">* </div>
+  <div n="143">* </div>
+  <div n="144">* </div>
+  <div n="145">* </div>
+  <div n="146">* </div>
+  <div n="147">* </div>
+  <div n="148">* </div>
+  <div n="149">* </div>
+<div n="150">
+        <headLine>* </headLine>
+        <EOF/> </div>
+</annotations>
